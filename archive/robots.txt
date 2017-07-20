@@ -1,0 +1,3 @@
+# Non-indexed folder.
+User-agent: *
+Disallow: /
